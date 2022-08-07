@@ -17,7 +17,7 @@
 > *If the smoothing factor is increased, more recent observations have more influence on the EMA.*
 
 > ## **DIF** <br>
-The DIF (Difference) is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. <br>
+> The DIF (Difference) is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. <br>
 > In order to perform more frequent short-term trading strategy tests, 5-10-5 was used for this project (*5-Day short-term EMA, 10-Day long-term EMA, 5-Day Signal Line*).
 > 
 > Formula:
