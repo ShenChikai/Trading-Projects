@@ -1,4 +1,4 @@
-# MACD
+# MACD Primitive Implementation and Tests
 ## This part of the project implements calcualtion of MACD along with its sub-associated indicators, like EMA, Signal Line, and Gap b/w MACD and Signal in the form of a histogram.
 ## This project will also include the testings of some popular/customized strategies.
 ## Belows concepts and formulas are from source: https://www.investopedia.com/
