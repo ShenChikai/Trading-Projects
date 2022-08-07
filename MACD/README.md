@@ -3,7 +3,7 @@
 ## This project will also include the testings of some popular/customized strategies.
 ## Belows concepts and formulas are from source: https://www.investopedia.com/
 
-<p align="center"><img src="./Strategy1.png" width="100%" height="70%"><p>
+<p align="center"><img src="./Strategy1.png" width="100%" height="50%"><p>
 
 > ## **EMA** <br>
 > Exponential Moving Average, unlike Simple Moving Average (SMA), is a moving average (MA) that places a greater weight and significance on the most recent data points. Traders often use several different EMA lengths, such as 10-day, 50-day, and 200-day moving averages.
