@@ -2,6 +2,8 @@
 ## This part of the project implements calcualtion of MACD along with its sub-associated indicators, like EMA, Signal Line, and Gap b/w MACD and Signal in the form of a histogram.
 ## Belows concepts and formulas are from source: https://www.investopedia.com/
 
+<p align="center"><img src="./MACD.png" width="100%" height="70%"><p>
+
 > ## **EMA** <br>
 > Exponential Moving Average, unlike Simple Moving Average (SMA), is a moving average (MA) that places a greater weight and significance on the most recent data points. Traders often use several different EMA lengths, such as 10-day, 50-day, and 200-day moving averages.
 > 
@@ -20,10 +22,8 @@
 > $$MACD = EMA_{12Days} - EMA_{26Days}$$
 
 > ## **Signal Line** <br>
-> Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA.
-> 
-> Formula:
-> $$MACD = EMA_{12Days} - EMA_{26Days}$$
+> The signal line is a **9-day EMA of the MACD**. As a moving average of the indicator, it trails the MACD and makes it easier to spot MACD turns. <br>
+> A bullish crossover occurs when the MACD turns up and crosses above the signal line. A bearish crossover occurs when the MACD turns down and crosses below the signal line.
 
 > ## **Histogram** <br>
 > MACD is often displayed with a histogram (see the chart below) which graphs the distance between the MACD and its signal line. <br>
