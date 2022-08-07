@@ -32,5 +32,11 @@
 > Formula:
 > $$Value = MACD - SignalLine$$
 
+## Golden Cross
+### short-term moving average crosses over a major long-term moving average to the upside and is interpreted by analysts and traders as signaling a definitive upward turn in a market
+    
+## Death Cross
+short-term moving average crosses over a major long-term moving average to the downside and is understood to signal a decisive downturn in a market
+    
 ## One of the main problems with divergence is that it can often signal a possible reversal but then no actual reversal actually happens—it produces a false positive. The other problem is that divergence doesn't forecast all reversals. In other words, it predicts too many reversals that don't occur and not enough real price reversals.
 ## "False positive" divergence often occurs when the price of an asset moves sideways, such as in a range or triangle pattern following a trend.
