@@ -42,5 +42,5 @@ short-term moving average crosses over a major long-term moving average to the *
 short-term moving average crosses over a major long-term moving average to the **downside** and is understood to signal a decisive **downturn in a market**
     
 ### problems
-    One of the main problems with divergence is that it can often signal a possible reversal but then no actual reversal actually happens—it produces a false positive. The other problem is that divergence doesn't forecast all reversals. In other words, it predicts too many reversals that don't occur and not enough real price reversals.<br>
-    "False positive" divergence often occurs when the price of an asset moves sideways, such as in a range or triangle pattern following a trend.
+> One of the main problems with divergence is that it can often signal a possible reversal but then no actual reversal actually happens—it produces a false positive. The other problem is that divergence doesn't forecast all reversals. In other words, it predicts too many reversals that don't occur and not enough real price reversals.<br>
+> "False positive" divergence often occurs when the price of an asset moves sideways, such as in a range or triangle pattern following a trend.
