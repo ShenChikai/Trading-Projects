@@ -1,5 +1,5 @@
 # Quantitaive Trading Projects
-## Credit to https://github.com/nickmccullum/algorithmic-trading-python at *freeCodeCamp.org* from which the first three starter projects are based on
+## Credit to https://github.com/nickmccullum/algorithmic-trading-python at *freeCodeCamp.org* for fundamentals
 
 1. Equal Weight S&P500
 >  The S&P 500 is the world's most popular stock market index. It has more than US$250 billion of assets under management.
